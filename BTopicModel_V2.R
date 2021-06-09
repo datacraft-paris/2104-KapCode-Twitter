@@ -1,5 +1,13 @@
 #### V2 of the topic model #######
-
+require(ggplot2)
+require(scales)
+require(dplyr)
+require(tidytext)
+require(tm)
+require(stringr)
+require(BTM)
+library(udpipe)
+require(rlist)
 ## Topic modelling 
 
 ### Preprocessing 
